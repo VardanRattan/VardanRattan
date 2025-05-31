@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Full Stack Developer & Problem Solver</h1>
-<p>Building modern web applications with React/Next.js and contributing to Android projects with Java/Kotlin. Love fixing bugs and building solutions from web apps to Arduino projects .</p>
+<h1>Hi 👋, I'm a Full Stack Developer & Problem Solver</h1>
+<p>Building modern web applications with React/Next.js and contributing to Android projects with Java/Kotlin. I love fixing bugs and building solutions - from web apps to Arduino projects.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
