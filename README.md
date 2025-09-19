@@ -20,10 +20,10 @@
 <h2>🛠 Notable Bug Fixes & Contributions</h2>
 <p>Highlighting some Android projects I contributed to with real-world impact:</p>
 <p>
-  <a target="_blank" href="https://github.com/VardanRattan/kotatsu-foreground-service-fix">
+  <a target="_blank" href="https://github.com/KotatsuApp/Kotatsu/pull/1426">
     <img src="https://img.shields.io/badge/ForegroundServiceFix-Android12%2B-brightgreen" alt="ForegroundService Fix" style="margin-right: 6px;" />
   </a>
-  <a target="_blank" href="https://github.com/VardanRattan/kotatsu/pull/xyz">
+  <a target="_blank" href="https://github.com/KotatsuApp/Kotatsu/pull/1602">
     <img src="https://img.shields.io/badge/SearchViewBackFix-Android15-blue" alt="SearchView Back Fix" />
   </a>
 </p>
