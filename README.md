@@ -23,15 +23,9 @@
   <a target="_blank" href="https://github.com/KotatsuApp/Kotatsu/pull/1426">
     <img src="https://img.shields.io/badge/ForegroundServiceFix-Android12%2B-brightgreen" alt="ForegroundService Fix" style="margin-right: 6px;" />
   </a>
-  <a target="_blank" href="https://github.com/KotatsuApp/Kotatsu/pull/1602">
-    <img src="https://img.shields.io/badge/SearchViewBackFix-Android15-blue" alt="SearchView Back Fix" />
-  </a>
 </p>
 <ul>
   <li>
     <strong>ForegroundServiceStartNotAllowedException (Android 12+)</strong> – Investigated and fixed app crashes caused by WorkManager trying to start foreground services in the background. Applied <code>setExpedited(OutOfQuotaPolicy.RUN_AS_NON_EXPEDITED_WORK_REQUEST)</code> in key WorkManager requests to ensure stability across devices.
-  </li>
-  <li>
-    <strong>SearchView Back Handling (Android 15)</strong> – Fixed a subtle bug where pressing back in <code>SearchView</code> exited the app instead of collapsing the search. Corrected version-check logic and submitted a merged PR, improving UX consistency with Material guidelines.
   </li>
 </ul>
