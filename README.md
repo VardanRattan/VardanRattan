@@ -1,8 +1,9 @@
 # Hi, I'm Vardan 👋
 
-**Computer Science Student @ LPU** • Linux Enthusiast • Open Source Contributor
+> Computer Science student at **Lovely Professional University (LPU)**.
+> Passionate about Linux, systems programming, AI/ML, cybersecurity, and open source.
 
-I'm passionate about building software that solves real problems. My interests currently revolve around **systems programming, AI/ML, cybersecurity, and modern web development**. I enjoy contributing to open source, learning how things work under the hood, and shipping projects that are actually useful.
+I enjoy building software that solves real problems, contributing to open source, and understanding how things work under the hood—from operating systems to modern web applications.
 
 ---
 
@@ -12,41 +13,12 @@ I'm passionate about building software that solves real problems. My interests c
 
 ---
 
-## 🚀 Tech Stack
-
-### Languages
-- C++
-- Java
-- Python
-- TypeScript
-- JavaScript
-
-### Frontend
-- React
-- Next.js
-- HTML
-- CSS
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Firebase
-- PostgreSQL
-
-### Tools & Environment
-- Git
-- Docker
-- Linux
-- Arduino
-
----
-
 ## 🌱 Currently
 
-- 📚 Learning Data Structures & Algorithms
-- 🐧 Daily driving Arch Linux + Hyprland
-- 🤖 Exploring AI/ML and CUDA
-- 🔐 Learning cybersecurity and Linux internals
+- 🐧 Daily driving **Arch Linux + Hyprland**
+- 📚 Learning **Data Structures & Algorithms (C++)**
+- 🤖 Exploring **AI/ML, CUDA & LLMs**
+- 🔐 Learning **Cybersecurity & Linux Internals**
 - ❤️ Looking to contribute to impactful open-source projects
 
 ---
@@ -58,23 +30,33 @@ I'm passionate about building software that solves real problems. My interests c
 Merged contributor to **Kotatsu**.
 
 - Fixed Android 12+ `ForegroundServiceStartNotAllowedException`
-- Improved WorkManager behavior for better stability across devices
-- Worked with maintainers to merge the production fix
+- Improved WorkManager scheduling for better background task reliability
+- Collaborated with maintainers to merge the production fix
+
+---
+
+## 🚀 Tech
+
+**Languages**
+
+`C++` • `Java` • `Python` • `TypeScript` • `JavaScript`
+
+**Frameworks & Tools**
+
+`React` • `Next.js` • `Node.js` • `PostgreSQL` • `Firebase` • `Docker` • `Git` • `Linux`
 
 ---
 
 ## 📌 Featured Projects
 
-Check out my pinned repositories below 👇
+Explore my pinned repositories below 👇
 
 - 🎮 **SuperTicTacToe** — Multiplayer Tic Tac Toe with AI
-- 🤝 **Kotatsu Contributions** — Android bug fixes
-- 🌐 **Portfolio** *(coming soon)*
-- 📚 **DSA Journey** *(coming soon)*
+- 🤝 **Kotatsu** — Android open-source contribution
+- 📚 **DSA** *(coming soon)*
 - 🐧 **Dotfiles** *(coming soon)*
+- 🤖 **AI Projects** *(coming soon)*
 
 ---
 
-## 📫 Connect
-
-- GitHub: https://github.com/VardanRattan
+> *"Build things. Break things. Learn why they work."*
