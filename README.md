@@ -7,9 +7,13 @@ I enjoy building software that solves real problems, contributing to open source
 
 ---
 
-## 📊 GitHub
+<h2 align="center">📊 GitHub</h2>
 
-[![My GitFut Card](https://gitfut.com/VardanRattan.png?country=IN)](https://gitfut.com/VardanRattan)
+<p align="center">
+  <a href="https://gitfut.com/VardanRattan">
+    <img src="https://gitfut.com/VardanRattan.png?country=IN" width="500" alt="GitFut Card">
+  </a>
+</p>
 
 ---
 
