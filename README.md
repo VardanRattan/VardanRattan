@@ -11,7 +11,7 @@ I enjoy building software that solves real problems, contributing to open source
 
 <p align="center">
   <a href="https://gitfut.com/VardanRattan">
-    <img src="https://gitfut.com/VardanRattan.png?country=IN" width="500" alt="GitFut Card">
+    <img src="https://gitfut.com/VardanRattan.png?country=IN" width="70%" alt="GitFut Card">
   </a>
 </p>
 
